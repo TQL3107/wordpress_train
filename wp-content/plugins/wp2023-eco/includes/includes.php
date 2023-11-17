@@ -3,3 +3,7 @@
 include_once WP2023_PATH. 'includes/post_types.php';
 // Đăng ký metabox
 include_once WP2023_PATH. 'includes/metaboxes.php';
+
+// Tạo api 
+
+include_once WP2023_PATH. 'includes/apis.php';
